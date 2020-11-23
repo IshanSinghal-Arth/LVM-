@@ -1,6 +1,4 @@
-# LVM-
-
-ARTH - Task 7 👨🏻‍💻
+# ARTH - Task 7
 
 Task Description 📄
 
